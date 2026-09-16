@@ -11,4 +11,3 @@ Task3and4_Loan_Data.csv
 
 The files are listed in `.gitignore` and should not be force-added to a public repository unless the relevant rights holder provides written permission.
 
-The automated tests use small synthetic examples and do not require the supplied datasets.
