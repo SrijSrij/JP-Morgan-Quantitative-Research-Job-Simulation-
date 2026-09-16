@@ -1,0 +1,21 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.vscode/
+
+# Supplied Forage materials
+for reference ONLY/
+Nat_Gas.csv
+Task3and4_Loan_Data.csv
+JPMC Quant.pdf
+EVALUATION.md
+
+# Generated data-dependent figures
+reports/figures/*.svg
+reports/figures/*.png
+reports/figures/*.html
+reports/figures/*.json
